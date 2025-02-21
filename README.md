@@ -1,5 +1,5 @@
 # WIP_IOT_Farm
-This is a masters degree project in the technology education field for 16-18 yo students. 
+This is a masters degree project (more like an activity or something like that, not a final project) in the technology education field for 16-18 yo students. 
 
 Sorry for the messy structure, is intended to be used as a example.
 It uses AdafruitIO platform as a monitoring and control center. 
